@@ -1,7 +1,7 @@
 # waydroid-instagram
 
 Automated Instagram installation script on WayDroid for Linux.
-Ideal for distributions like Arch Linux, Fedora, Ubuntu, etc.
+functional only for Arch Linux.
 
 ---
 
