@@ -1,7 +1,7 @@
 # waydroid-instagram
 
 Automated Instagram installation script on WayDroid for Linux.
-functional only for Arch Linux.
+Functional only for Arch Linux or Pacman-based distributions (e.g., Manjaro, EndeavourOS).
 
 ---
 
