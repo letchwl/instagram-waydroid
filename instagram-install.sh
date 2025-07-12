@@ -63,7 +63,7 @@ exit
 EOF
 
 echo "🧷 Criando atalho de aplicativo..."
-ICON_SRC="$(dirname "$0")/assets/instagram_icon.png"
+ICON_SRC="$HOME/instagram-waydroid/assets/instagram_icon.png"
 ICON_DST="$HOME/.local/share/icons/instagram_icon.png"
 
 echo "🖼️ Copiando ícone para o local de ícones do usuário..."
