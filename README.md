@@ -18,7 +18,7 @@ cd ~/instagram-waydroid
 ### 2. Download the APK
 Download Instagram APK:
 ```bash
-wget https://www.apkmirror.com/wp-content/themes/APKMirror/download.php?id=365005041 -O com.instagram.android.apk
+https://www.apkmirror.com/apk/instagram/instagram-instagram/instagram-instagram-250-0-0-21-109-release/instagram-250-0-0-21-109-14-android-apk-download/
 ```
 Place the Instagram APK inside the `~/Dowloads` folder and rename it to:  
 `com.instagram.android.apk`
